@@ -1,3 +1,9 @@
+[submodule "Simulation"]
+	path = Simulation
+	url = https://github.com/Aki-Team/AkiHome-SimulationPlatform
 [submodule "Firmware"]
-  path = Firmware
-  url = https://github.com/Aki-Team/AkiHomeFirmware
+	path = Firmware
+	url = https://github.com/Aki-Team/AkiHome-Firmware
+[submodule "GUI"]
+	path = GUI
+	url = https://github.com/Aki-Team/AkiHome-GUI
